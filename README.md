@@ -1,2 +1,1 @@
-# sdb
 Session border dudelka
